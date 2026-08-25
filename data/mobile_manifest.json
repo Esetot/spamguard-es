@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "block_count": 0,
+  "review_count": 0,
+  "files": {
+    "block": {
+      "name": "lista_numeros_spam.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "review": {
+      "name": "lista_numeros_review.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}
