@@ -80,7 +80,14 @@ jobs:
       - name: Build SpamGuard ES APK
         working-directory: android_app
         run: |
-          export PATH="$HOME/.cargo/bin:$HOME/.local/bin:$PATH"
+          USER_BASE="$(python3 -m site --user-base)"
+          export PATH="$HOME/.cargo/bin:$USER_BASE/bin:$PATH"
+          
+          echo "Python user base: $USER_BASE"
+          echo "Buildozer executable:"
+          command -v buildozer
+          buildozer --version
+          
           buildozer -v android debug
 
       - name: Upload APK
