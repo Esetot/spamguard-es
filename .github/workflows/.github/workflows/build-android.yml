@@ -1,0 +1,91 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "android_app/**"
+      - ".github/workflows/build-android.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y \
+            git zip unzip openjdk-17-jdk \
+            python3-pip python3-venv \
+            autoconf libtool pkg-config \
+            zlib1g-dev libncurses5-dev \
+            libncursesw5-dev libtinfo6 \
+            cmake libffi-dev libssl-dev \
+            automake autopoint gettext curl
+
+      - name: Install Rust
+        run: |
+          curl https://sh.rustup.rs -sSf | sh -s -- -y
+          echo "$HOME/.cargo/bin" >> "$GITHUB_PATH"
+
+      - name: Install Buildozer
+        run: |
+          python3 -m venv "$HOME/buildozer-venv"
+          "$HOME/buildozer-venv/bin/pip" install --upgrade pip setuptools wheel
+          "$HOME/buildozer-venv/bin/pip" install \
+            git+https://github.com/kivy/buildozer \
+            legacy-cgi \
+            "cython==0.29.34"
+
+      - name: Configure GitHub database URL
+        env:
+          REPOSITORY: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+
+          repo = os.environ["REPOSITORY"]
+          branch = os.environ.get("BRANCH") or "main"
+
+          raw_url = (
+              f"https://raw.githubusercontent.com/"
+              f"{repo}/{branch}/data"
+          )
+
+          with open(
+              "android_app/repo_config.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  {"raw_base": raw_url},
+                  f,
+                  indent=2
+              )
+              f.write("\n")
+
+          print("SpamGuard database:", raw_url)
+          PY
+
+      - name: Build SpamGuard ES APK
+        working-directory: android_app
+        run: |
+          export PATH="$HOME/.cargo/bin:$HOME/buildozer-venv/bin:$PATH"
+          buildozer -v android debug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: SpamGuard-ES-debug
+          path: android_app/bin/*.apk
+          if-no-files-found: error
