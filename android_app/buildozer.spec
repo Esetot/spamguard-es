@@ -16,7 +16,7 @@ android.ndk = 29
 android.archs = arm64-v8a,armeabi-v7a
 android.accept_sdk_license = True
 android.add_src = android_src
-android.extra_manifest_application_arguments = android_manifest/application.xml
+p4a.hook = p4a_hook.py
 p4a.branch = develop
 
 [buildozer]
