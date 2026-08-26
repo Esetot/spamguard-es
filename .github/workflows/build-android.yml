@@ -32,22 +32,48 @@ jobs:
           branch = os.environ.get("BRANCH") or "main"
           raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/data"
 
-          with open("android_app/repo_config.json", "w", encoding="utf-8") as f:
-              json.dump({"raw_base": raw_url}, f, indent=2)
+          with open(
+              "android_app/repo_config.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  {"raw_base": raw_url},
+                  f,
+                  indent=2
+              )
               f.write("\n")
 
           print("SpamGuard database:", raw_url)
           PY
 
       - name: Pull official Buildozer image
-        run: docker pull ghcr.io/kivy/buildozer:latest
+        run: |
+          docker pull ghcr.io/kivy/buildozer:latest
 
       - name: Build SpamGuard ES APK
         run: |
+          set +e
+
           docker run --rm \
             --volume "${{ github.workspace }}/android_app:/home/user/hostcwd" \
             ghcr.io/kivy/buildozer:latest \
-            android debug
+            android debug > buildozer.log 2>&1 &
+
+          PID=$!
+
+          while kill -0 "$PID" 2>/dev/null; do
+            echo "Buildozer sigue compilando..."
+            sleep 60
+          done
+
+          wait "$PID"
+          STATUS=$?
+
+          echo "===== ÚLTIMAS 250 LÍNEAS DE BUILDOZER ====="
+          tail -n 250 buildozer.log
+
+          exit "$STATUS"
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
