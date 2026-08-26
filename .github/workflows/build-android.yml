@@ -30,7 +30,6 @@ jobs:
 
           repo = os.environ["REPOSITORY"]
           branch = os.environ.get("BRANCH") or "main"
-
           raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/data"
 
           with open("android_app/repo_config.json", "w", encoding="utf-8") as f:
@@ -40,15 +39,19 @@ jobs:
           print("SpamGuard database:", raw_url)
           PY
 
-      - name: Build with Buildozer
-        uses: ArtemSBulgakov/buildozer-action@v1
-        id: buildozer
-        with:
-          workdir: android_app
-          buildozer_version: stable
+      - name: Pull official Buildozer image
+        run: docker pull ghcr.io/kivy/buildozer:latest
+
+      - name: Build SpamGuard ES APK
+        run: |
+          docker run --rm \
+            --volume "${{ github.workspace }}/android_app:/home/user/hostcwd" \
+            ghcr.io/kivy/buildozer:latest \
+            android debug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: SpamGuard-ES-debug
-          path: ${{ steps.buildozer.outputs.filename }}
+          path: android_app/bin/*.apk
+          if-no-files-found: error
