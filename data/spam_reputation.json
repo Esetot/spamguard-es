@@ -1,12 +1,12 @@
 [
   {
     "phone": "920501958",
-    "score": 87.8,
+    "score": 91.8,
     "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 2,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -14,7 +14,7 @@
       "max_source_weight=0.95 -> 42.8",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=2 -> +12.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -33,7 +33,49 @@
         "source_group": "datostelefonicos",
         "kind": "discovery",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.2,
+        "last_source_id": "datos_last",
+        "last_url": "https://datostelefonicos.com/ultimos-buscados/es?limit=200"
+      }
+    ]
+  },
+  {
+    "phone": "967831703",
+    "score": 91.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 2,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=2 -> +12.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      },
+      {
+        "source_group": "datostelefonicos",
+        "kind": "discovery",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.2,
         "last_source_id": "datos_last",
@@ -43,12 +85,12 @@
   },
   {
     "phone": "604060886",
-    "score": 75.8,
+    "score": 79.8,
     "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -56,7 +98,7 @@
       "max_source_weight=0.95 -> 42.8",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -65,8 +107,1608 @@
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "846636305",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "848982683",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "851816652",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "851823014",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "851823558",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "854794502",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "856638731",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "856638743",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "856638753",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "856638955",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "865449579",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "868359043",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "900470000",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "910203725",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "910203782",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "910612118",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "910612398",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "911319348",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "911969176",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "912222123",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "914566686",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919076725",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462059",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462086",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462316",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462524",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462946",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919490321",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919590497",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919791150",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919973074",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919977421",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919999386",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "925573032",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "927684472",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "927684558",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "927684560",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "930473505",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "930487465",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "930907346",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "941733795",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "950724388",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "956187532",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "960669013",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "967831669",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "967831671",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "967831700",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "967831701",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "969445907",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "988141517",
+    "score": 79.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
         "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
@@ -98,6 +1740,38 @@
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
         "last_seen": "2026-08-25T20:48:08+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "640010431",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -170,11 +1844,11 @@
     ]
   },
   {
-    "phone": "846636305",
+    "phone": "851816641",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -192,72 +1866,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "848982683",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "851816652",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -298,11 +1908,11 @@
     ]
   },
   {
-    "phone": "851823014",
+    "phone": "851823252",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -320,8 +1930,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -330,11 +1940,11 @@
     ]
   },
   {
-    "phone": "851823558",
+    "phone": "851823570",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -352,8 +1962,72 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "854794039",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "854794403",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -363,38 +2037,6 @@
   },
   {
     "phone": "854794480",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "854794502",
     "score": 75.8,
     "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
@@ -450,6 +2092,38 @@
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
         "last_seen": "2026-08-25T20:48:08+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "854794570",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -522,6 +2196,70 @@
     ]
   },
   {
+    "phone": "854900338",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "854900339",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
     "phone": "856184080",
     "score": 75.8,
     "status": "BLOCK",
@@ -586,102 +2324,6 @@
     ]
   },
   {
-    "phone": "856638731",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "856638743",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "856638753",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
     "phone": "856638758",
     "score": 75.8,
     "status": "BLOCK",
@@ -714,11 +2356,11 @@
     ]
   },
   {
-    "phone": "856638955",
+    "phone": "865449580",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -736,8 +2378,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -746,11 +2388,11 @@
     ]
   },
   {
-    "phone": "865449579",
+    "phone": "865459273",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -768,8 +2410,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -778,11 +2420,11 @@
     ]
   },
   {
-    "phone": "868359043",
+    "phone": "865459383",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -800,8 +2442,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -842,11 +2484,11 @@
     ]
   },
   {
-    "phone": "900470000",
+    "phone": "910612133",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -864,104 +2506,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "910203725",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "910203782",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "910612118",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -971,38 +2517,6 @@
   },
   {
     "phone": "910612386",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "910612398",
     "score": 75.8,
     "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
@@ -1066,11 +2580,11 @@
     ]
   },
   {
-    "phone": "911319348",
+    "phone": "919462068",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1088,168 +2602,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "911969176",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "912222123",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "914566686",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "919076725",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "919462059",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1290,11 +2644,11 @@
     ]
   },
   {
-    "phone": "919462086",
+    "phone": "919462081",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1312,72 +2666,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "919462316",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "919462524",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1410,6 +2700,70 @@
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
         "last_seen": "2026-08-25T20:48:08+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462698",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 1,
+        "max_weight": 0.95,
+        "last_source_id": "cleverdialer_top_24h",
+        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
+      }
+    ]
+  },
+  {
+    "phone": "919462781",
+    "score": 75.8,
+    "status": "BLOCK",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 1,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.95 -> 42.8",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=1 -> +0.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "cleverdialer",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1482,38 +2836,6 @@
     ]
   },
   {
-    "phone": "919462946",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
     "phone": "919462949",
     "score": 75.8,
     "status": "BLOCK",
@@ -1546,11 +2868,11 @@
     ]
   },
   {
-    "phone": "919490321",
+    "phone": "919602883",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1568,72 +2890,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "919590497",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "919791150",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1674,11 +2932,11 @@
     ]
   },
   {
-    "phone": "919973074",
+    "phone": "919970986",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1696,8 +2954,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1706,11 +2964,11 @@
     ]
   },
   {
-    "phone": "919977421",
+    "phone": "919970990",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1728,8 +2986,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1770,11 +3028,11 @@
     ]
   },
   {
-    "phone": "919999386",
+    "phone": "927684118",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1792,8 +3050,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1802,11 +3060,11 @@
     ]
   },
   {
-    "phone": "925573032",
+    "phone": "930487842",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1824,8 +3082,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1834,11 +3092,11 @@
     ]
   },
   {
-    "phone": "927684472",
+    "phone": "930487911",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1856,8 +3114,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1866,11 +3124,11 @@
     ]
   },
   {
-    "phone": "927684558",
+    "phone": "946535299",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1888,8 +3146,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -1898,11 +3156,11 @@
     ]
   },
   {
-    "phone": "927684560",
+    "phone": "946535300",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -1920,136 +3178,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "930473505",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "930487465",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "930907346",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "941733795",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -2090,11 +3220,11 @@
     ]
   },
   {
-    "phone": "950724388",
+    "phone": "950724420",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -2112,8 +3242,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -2122,11 +3252,11 @@
     ]
   },
   {
-    "phone": "956187532",
+    "phone": "957782701",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -2144,8 +3274,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -2250,11 +3380,11 @@
     ]
   },
   {
-    "phone": "960669013",
+    "phone": "960383200",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -2272,8 +3402,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -2282,11 +3412,11 @@
     ]
   },
   {
-    "phone": "967831669",
+    "phone": "961824704",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -2304,136 +3434,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "967831671",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "967831700",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "967831701",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "967831703",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -2474,11 +3476,11 @@
     ]
   },
   {
-    "phone": "969445907",
+    "phone": "984279226",
     "score": 75.8,
     "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -2496,40 +3498,8 @@
       {
         "source_group": "cleverdialer",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.95,
-        "last_source_id": "cleverdialer_top_24h",
-        "last_url": "https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas"
-      }
-    ]
-  },
-  {
-    "phone": "988141517",
-    "score": 75.8,
-    "status": "BLOCK",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.95 -> 42.8",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "cleverdialer",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.95,
         "last_source_id": "cleverdialer_top_24h",
@@ -2539,12 +3509,12 @@
   },
   {
     "phone": "605918082",
-    "score": 69.9,
-    "status": "REVIEW",
+    "score": 73.9,
+    "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -2552,7 +3522,7 @@
       "max_source_weight=0.82 -> 36.9",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -2561,8 +3531,8 @@
         "source_group": "detectaspam",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
         "last_url": "https://detectaspam.com/"
@@ -2571,12 +3541,12 @@
   },
   {
     "phone": "651728561",
-    "score": 69.9,
-    "status": "REVIEW",
+    "score": 73.9,
+    "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -2584,7 +3554,7 @@
       "max_source_weight=0.82 -> 36.9",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -2593,8 +3563,8 @@
         "source_group": "detectaspam",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
         "last_url": "https://detectaspam.com/"
@@ -2613,12 +3583,12 @@
   },
   {
     "phone": "673031776",
-    "score": 69.9,
-    "status": "REVIEW",
+    "score": 73.9,
+    "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -2626,7 +3596,7 @@
       "max_source_weight=0.82 -> 36.9",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -2635,8 +3605,8 @@
         "source_group": "detectaspam",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
         "last_url": "https://detectaspam.com/"
@@ -2645,12 +3615,12 @@
   },
   {
     "phone": "690829335",
-    "score": 69.9,
-    "status": "REVIEW",
+    "score": 73.9,
+    "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -2658,7 +3628,7 @@
       "max_source_weight=0.82 -> 36.9",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -2667,8 +3637,8 @@
         "source_group": "detectaspam",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
         "last_url": "https://detectaspam.com/"
@@ -2687,12 +3657,12 @@
   },
   {
     "phone": "696398546",
-    "score": 69.9,
-    "status": "REVIEW",
+    "score": 73.9,
+    "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -2700,7 +3670,7 @@
       "max_source_weight=0.82 -> 36.9",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -2709,8 +3679,8 @@
         "source_group": "detectaspam",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
         "last_url": "https://detectaspam.com/"
@@ -2729,12 +3699,12 @@
   },
   {
     "phone": "917379484",
-    "score": 69.9,
-    "status": "REVIEW",
+    "score": 73.9,
+    "status": "BLOCK",
     "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
-    "seen_runs": 1,
+    "seen_runs": 2,
     "independent_spam_groups": 1,
     "safe_groups": 0,
     "best_evidence": "explicit_spam",
@@ -2742,7 +3712,7 @@
       "max_source_weight=0.82 -> 36.9",
       "best_evidence=explicit_spam -> +25.0",
       "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
       "age_days=0 -> recency +8.0, stale 0.0",
       "safe_groups=0 -> 0.0"
     ],
@@ -2751,8 +3721,82 @@
         "source_group": "detectaspam",
         "kind": "explicit_spam",
         "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.82,
+        "last_source_id": "detectaspam_home",
+        "last_url": "https://detectaspam.com/"
+      }
+    ]
+  },
+  {
+    "phone": "975570523",
+    "score": 73.9,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.82 -> 36.9",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "detectaspam",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.82,
+        "last_source_id": "detectaspam_home",
+        "last_url": "https://detectaspam.com/"
+      }
+    ]
+  },
+  {
+    "phone": "979301429",
+    "score": 73.9,
+    "status": "BLOCK",
+    "first_seen": "2026-08-25T20:48:08+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
+    "age_days": 0,
+    "seen_runs": 2,
+    "independent_spam_groups": 1,
+    "safe_groups": 0,
+    "best_evidence": "explicit_spam",
+    "reasons": [
+      "max_source_weight=0.82 -> 36.9",
+      "best_evidence=explicit_spam -> +25.0",
+      "independent_spam_groups=1 -> +0.0",
+      "seen_runs=2 -> +4.0",
+      "age_days=0 -> recency +8.0, stale 0.0",
+      "safe_groups=0 -> 0.0"
+    ],
+    "evidence": [
+      {
+        "source_group": "detectaspam",
+        "kind": "explicit_spam",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
+        "max_weight": 0.82,
+        "last_source_id": "detectaspam_home",
+        "last_url": "https://detectaspam.com/"
+      },
+      {
+        "source_group": "detectaspam",
+        "kind": "suspicious",
+        "first_seen": "2026-08-25T20:48:08+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
+        "hits": 2,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
         "last_url": "https://detectaspam.com/"
@@ -2802,11 +3846,11 @@
     ]
   },
   {
-    "phone": "975570523",
+    "phone": "937371047",
     "score": 69.9,
     "status": "REVIEW",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
+    "first_seen": "2026-08-26T17:34:45+00:00",
+    "last_seen": "2026-08-26T17:34:45+00:00",
     "age_days": 0,
     "seen_runs": 1,
     "independent_spam_groups": 1,
@@ -2824,50 +3868,8 @@
       {
         "source_group": "detectaspam",
         "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.82,
-        "last_source_id": "detectaspam_home",
-        "last_url": "https://detectaspam.com/"
-      }
-    ]
-  },
-  {
-    "phone": "979301429",
-    "score": 69.9,
-    "status": "REVIEW",
-    "first_seen": "2026-08-25T20:48:08+00:00",
-    "last_seen": "2026-08-25T20:48:08+00:00",
-    "age_days": 0,
-    "seen_runs": 1,
-    "independent_spam_groups": 1,
-    "safe_groups": 0,
-    "best_evidence": "explicit_spam",
-    "reasons": [
-      "max_source_weight=0.82 -> 36.9",
-      "best_evidence=explicit_spam -> +25.0",
-      "independent_spam_groups=1 -> +0.0",
-      "seen_runs=1 -> +0.0",
-      "age_days=0 -> recency +8.0, stale 0.0",
-      "safe_groups=0 -> 0.0"
-    ],
-    "evidence": [
-      {
-        "source_group": "detectaspam",
-        "kind": "explicit_spam",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
-        "hits": 1,
-        "max_weight": 0.82,
-        "last_source_id": "detectaspam_home",
-        "last_url": "https://detectaspam.com/"
-      },
-      {
-        "source_group": "detectaspam",
-        "kind": "suspicious",
-        "first_seen": "2026-08-25T20:48:08+00:00",
-        "last_seen": "2026-08-25T20:48:08+00:00",
+        "first_seen": "2026-08-26T17:34:45+00:00",
+        "last_seen": "2026-08-26T17:34:45+00:00",
         "hits": 1,
         "max_weight": 0.82,
         "last_source_id": "detectaspam_home",
