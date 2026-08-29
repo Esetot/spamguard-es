@@ -175,7 +175,7 @@ slickly_es,slickly,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https:
 spamcalls_es,spamcalls,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://spamcalls.net/es/country-code/34,https://spamcalls.net/es/country-code/34
 telefonospam_latest,telefonospam,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.telefonospam.com/ultimos,https://www.telefonospam.com/ultimos
 tellows_stats,tellows,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.tellows.es/stats,https://www.tellows.es/stats
-cleverdialer_top_24h,cleverdialer,1,200,86,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
+cleverdialer_top_24h,cleverdialer,1,200,81,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
 datos_top,datostelefonicos,1,200,128,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 detectaspam_home,detectaspam,1,200,22,0,,https://detectaspam.com/
