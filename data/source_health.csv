@@ -9,7 +9,7 @@ numerospam_mobile_606,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for 
 numerospam_mobile_607,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/607,https://numerospam.es/moviles/es/607
 numerospam_mobile_608,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/608,https://numerospam.es/moviles/es/608
 numerospam_mobile_609,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/609,https://numerospam.es/moviles/es/609
-numerospam_mobile_610,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/610,https://numerospam.es/moviles/es/610
+numerospam_mobile_610,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/610
 numerospam_mobile_611,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/611,https://numerospam.es/moviles/es/611
 numerospam_mobile_612,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/612,https://numerospam.es/moviles/es/612
 numerospam_mobile_613,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/613,https://numerospam.es/moviles/es/613
@@ -31,7 +31,7 @@ numerospam_mobile_629,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for 
 numerospam_mobile_630,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/630,https://numerospam.es/moviles/es/630
 numerospam_mobile_631,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/631,https://numerospam.es/moviles/es/631
 numerospam_mobile_632,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/632,https://numerospam.es/moviles/es/632
-numerospam_mobile_633,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/633,https://numerospam.es/moviles/es/633
+numerospam_mobile_633,numerospam,0,,0,0,"ReadTimeout: HTTPSConnectionPool(host='numerospam.es', port=443): Read timed out. (read timeout=12.0)",https://numerospam.es/moviles/es/633
 numerospam_mobile_634,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/634,https://numerospam.es/moviles/es/634
 numerospam_mobile_635,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/635,https://numerospam.es/moviles/es/635
 numerospam_mobile_636,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/636,https://numerospam.es/moviles/es/636
@@ -175,7 +175,7 @@ slickly_es,slickly,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https:
 spamcalls_es,spamcalls,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://spamcalls.net/es/country-code/34,https://spamcalls.net/es/country-code/34
 telefonospam_latest,telefonospam,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.telefonospam.com/ultimos,https://www.telefonospam.com/ultimos
 tellows_stats,tellows,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.tellows.es/stats,https://www.tellows.es/stats
-cleverdialer_top_24h,cleverdialer,1,200,25,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
+cleverdialer_top_24h,cleverdialer,1,200,71,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
-datos_top,datostelefonicos,1,200,128,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
+datos_top,datostelefonicos,1,200,127,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 detectaspam_home,detectaspam,1,200,20,0,,https://detectaspam.com/
