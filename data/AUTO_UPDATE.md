@@ -1,9 +1,9 @@
 # Automatic spam-list update
 
-- Last run: `2026-09-09T19:21:13+00:00`
-- BLOCK: **291**
+- Last run: `2026-09-10T19:11:24+00:00`
+- BLOCK: **306**
 - REVIEW: **2**
-- OBSERVE: **382**
+- OBSERVE: **517**
 - ALLOW: **0**
 - New BLOCK numbers: **15**
 - Removed from BLOCK: **0**
