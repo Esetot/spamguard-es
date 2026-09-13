@@ -1,11 +1,11 @@
 # Automatic spam-list update
 
-- Last run: `2026-09-12T18:28:49+00:00`
-- BLOCK: **342**
+- Last run: `2026-09-13T18:51:40+00:00`
+- BLOCK: **343**
 - REVIEW: **1**
-- OBSERVE: **530**
+- OBSERVE: **533**
 - ALLOW: **0**
-- New BLOCK numbers: **13**
+- New BLOCK numbers: **1**
 - Removed from BLOCK: **0**
 - Sources OK: **4**
 - Sources failed: **176**
