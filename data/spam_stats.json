@@ -1,10 +1,10 @@
 {
-  "total": 1492,
-  "block": 488,
-  "review": 161,
-  "observe": 843,
+  "total": 1497,
+  "block": 463,
+  "review": 186,
+  "observe": 848,
   "allow": 0,
-  "generated_at": "2026-10-18T18:42:24+00:00",
-  "added_block": 2,
-  "removed_block": 10
+  "generated_at": "2026-10-19T21:08:45+00:00",
+  "added_block": 1,
+  "removed_block": 26
 }
