@@ -136,7 +136,7 @@ numerospam_province_las-palmas,numerospam,0,,0,0,HTTPError: 404 Client Error: No
 numerospam_province_leon,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/leon,https://numerospam.es/prefijos/es/leon
 numerospam_province_lleida,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/lleida,https://numerospam.es/prefijos/es/lleida
 numerospam_province_lugo,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/lugo,https://numerospam.es/prefijos/es/lugo
-numerospam_province_madrid,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/madrid,https://numerospam.es/prefijos/es/madrid
+numerospam_province_madrid,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/prefijos/es/madrid
 numerospam_province_malaga,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/malaga,https://numerospam.es/prefijos/es/malaga
 numerospam_province_murcia,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/murcia,https://numerospam.es/prefijos/es/murcia
 numerospam_province_navarra,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos/es/navarra,https://numerospam.es/prefijos/es/navarra
@@ -160,7 +160,7 @@ numerospam_special_704,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found 
 numerospam_special_800,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/800,https://numerospam.es/prefijos-especiales/es/800
 numerospam_special_803,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/803,https://numerospam.es/prefijos-especiales/es/803
 numerospam_special_806,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/806,https://numerospam.es/prefijos-especiales/es/806
-numerospam_special_807,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/807,https://numerospam.es/prefijos-especiales/es/807
+numerospam_special_807,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/prefijos-especiales/es/807
 numerospam_special_900,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/900,https://numerospam.es/prefijos-especiales/es/900
 numerospam_special_901,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/901,https://numerospam.es/prefijos-especiales/es/901
 numerospam_special_902,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/prefijos-especiales/es/902,https://numerospam.es/prefijos-especiales/es/902
@@ -175,7 +175,7 @@ slickly_es,slickly,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https:
 spamcalls_es,spamcalls,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://spamcalls.net/es/country-code/34,https://spamcalls.net/es/country-code/34
 telefonospam_latest,telefonospam,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.telefonospam.com/ultimos,https://www.telefonospam.com/ultimos
 tellows_stats,tellows,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.tellows.es/stats,https://www.tellows.es/stats
-cleverdialer_top_24h,cleverdialer,1,200,11,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
+cleverdialer_top_24h,cleverdialer,1,200,22,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
 datos_top,datostelefonicos,1,200,126,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 detectaspam_home,detectaspam,1,200,24,0,,https://detectaspam.com/
