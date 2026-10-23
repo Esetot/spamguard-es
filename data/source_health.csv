@@ -11,7 +11,7 @@ numerospam_mobile_608,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found f
 numerospam_mobile_609,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/609,https://numerospam.es/moviles/es/609
 numerospam_mobile_610,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/610,https://numerospam.es/moviles/es/610
 numerospam_mobile_611,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/611,https://numerospam.es/moviles/es/611
-numerospam_mobile_612,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/612,https://numerospam.es/moviles/es/612
+numerospam_mobile_612,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/612
 numerospam_mobile_613,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/613,https://numerospam.es/moviles/es/613
 numerospam_mobile_615,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/615,https://numerospam.es/moviles/es/615
 numerospam_mobile_616,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/616,https://numerospam.es/moviles/es/616
@@ -29,8 +29,8 @@ numerospam_mobile_627,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found f
 numerospam_mobile_628,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/628,https://numerospam.es/moviles/es/628
 numerospam_mobile_629,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/629,https://numerospam.es/moviles/es/629
 numerospam_mobile_630,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/630,https://numerospam.es/moviles/es/630
-numerospam_mobile_631,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/631,https://numerospam.es/moviles/es/631
-numerospam_mobile_632,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/632,https://numerospam.es/moviles/es/632
+numerospam_mobile_631,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/631
+numerospam_mobile_632,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/632
 numerospam_mobile_633,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/633,https://numerospam.es/moviles/es/633
 numerospam_mobile_634,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/634,https://numerospam.es/moviles/es/634
 numerospam_mobile_635,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/635,https://numerospam.es/moviles/es/635
@@ -43,7 +43,7 @@ numerospam_mobile_641,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found f
 numerospam_mobile_642,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/642,https://numerospam.es/moviles/es/642
 numerospam_mobile_643,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/643,https://numerospam.es/moviles/es/643
 numerospam_mobile_644,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/644,https://numerospam.es/moviles/es/644
-numerospam_mobile_645,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/645,https://numerospam.es/moviles/es/645
+numerospam_mobile_645,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/645
 numerospam_mobile_646,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/646,https://numerospam.es/moviles/es/646
 numerospam_mobile_647,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/647,https://numerospam.es/moviles/es/647
 numerospam_mobile_648,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/648,https://numerospam.es/moviles/es/648
@@ -83,7 +83,7 @@ numerospam_mobile_681,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found f
 numerospam_mobile_682,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/682,https://numerospam.es/moviles/es/682
 numerospam_mobile_683,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/683,https://numerospam.es/moviles/es/683
 numerospam_mobile_684,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/684,https://numerospam.es/moviles/es/684
-numerospam_mobile_685,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/685,https://numerospam.es/moviles/es/685
+numerospam_mobile_685,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/685
 numerospam_mobile_686,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/686,https://numerospam.es/moviles/es/686
 numerospam_mobile_687,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/687,https://numerospam.es/moviles/es/687
 numerospam_mobile_688,numerospam,0,,0,0,HTTPError: 404 Client Error: Not Found for url: https://agenciaweb.net/moviles/es/688,https://numerospam.es/moviles/es/688
@@ -175,7 +175,7 @@ slickly_es,slickly,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https:
 spamcalls_es,spamcalls,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://spamcalls.net/es/country-code/34,https://spamcalls.net/es/country-code/34
 telefonospam_latest,telefonospam,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.telefonospam.com/ultimos,https://www.telefonospam.com/ultimos
 tellows_stats,tellows,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://www.tellows.es/stats,https://www.tellows.es/stats
-cleverdialer_top_24h,cleverdialer,1,200,29,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
+cleverdialer_top_24h,cleverdialer,1,200,27,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
 datos_top,datostelefonicos,1,200,126,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 detectaspam_home,detectaspam,1,200,24,0,,https://detectaspam.com/
