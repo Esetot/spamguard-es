@@ -1,14 +1,14 @@
 # Automatic spam-list update
 
-- Last run: `2026-10-25T19:42:45+00:00`
-- BLOCK: **457**
-- REVIEW: **203**
-- OBSERVE: **872**
+- Last run: `2026-10-26T21:42:14+00:00`
+- BLOCK: **440**
+- REVIEW: **221**
+- OBSERVE: **875**
 - ALLOW: **0**
-- New BLOCK numbers: **0**
-- Removed from BLOCK: **8**
-- Sources OK: **4**
-- Sources failed: **176**
+- New BLOCK numbers: **1**
+- Removed from BLOCK: **18**
+- Sources OK: **3**
+- Sources failed: **177**
 - Sources blocked by robots.txt: **0**
 
 The public TXT contains only numbers currently classified as `BLOCK`.
