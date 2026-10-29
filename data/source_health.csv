@@ -6,7 +6,7 @@ numerospam_mobile_602,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for 
 numerospam_mobile_603,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/603,https://numerospam.es/moviles/es/603
 numerospam_mobile_604,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/604,https://numerospam.es/moviles/es/604
 numerospam_mobile_605,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/605,https://numerospam.es/moviles/es/605
-numerospam_mobile_606,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/moviles/es/606
+numerospam_mobile_606,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/606,https://numerospam.es/moviles/es/606
 numerospam_mobile_607,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/607,https://numerospam.es/moviles/es/607
 numerospam_mobile_608,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/608,https://numerospam.es/moviles/es/608
 numerospam_mobile_609,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/609,https://numerospam.es/moviles/es/609
@@ -131,7 +131,7 @@ numerospam_province_guipuzcoa,numerospam,0,,0,0,HTTPError: 525 Server Error: <no
 numerospam_province_huelva,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/huelva,https://numerospam.es/prefijos/es/huelva
 numerospam_province_huesca,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/huesca,https://numerospam.es/prefijos/es/huesca
 numerospam_province_islas-baleares,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/islas-baleares,https://numerospam.es/prefijos/es/islas-baleares
-numerospam_province_jaen,numerospam,0,,0,0,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",https://numerospam.es/prefijos/es/jaen
+numerospam_province_jaen,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/jaen,https://numerospam.es/prefijos/es/jaen
 numerospam_province_la-rioja,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/la-rioja,https://numerospam.es/prefijos/es/la-rioja
 numerospam_province_las-palmas,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/las-palmas,https://numerospam.es/prefijos/es/las-palmas
 numerospam_province_leon,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos/es/leon,https://numerospam.es/prefijos/es/leon
@@ -172,10 +172,10 @@ numerospam_special_907,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for
 numerospam_special_908,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos-especiales/es/908,https://numerospam.es/prefijos-especiales/es/908
 numerospam_special_909,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos-especiales/es/909,https://numerospam.es/prefijos-especiales/es/909
 slickly_es,slickly,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://slick.ly/es,https://slick.ly/es
-cleverdialer_top_24h,cleverdialer,1,200,12,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
+cleverdialer_top_24h,cleverdialer,1,200,11,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
 datos_top,datostelefonicos,1,200,126,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 openspam_home,openspam,1,200,0,0,,https://openspam.es/
 spamcalls_es,spamcalls,1,200,51,0,,https://spamcalls.net/es/country-code/34
-telefonospam_latest,telefonospam,1,200,118,0,,https://www.telefonospam.com/ultimos
-tellows_stats,tellows,1,200,92,0,,https://www.tellows.es/stats
+telefonospam_latest,telefonospam,1,200,114,0,,https://www.telefonospam.com/ultimos
+tellows_stats,tellows,1,200,111,0,,https://www.tellows.es/stats
