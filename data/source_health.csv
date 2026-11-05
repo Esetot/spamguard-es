@@ -1,5 +1,5 @@
 source_id,source_group,ok,status_code,evidence_count,robots_blocked,error,url
-detectaspam_home,detectaspam,0,,0,0,"SSLError: HTTPSConnectionPool(host='detectaspam.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'detectaspam.com'. (_ssl.c:1010)"")))",https://detectaspam.com/
+detectaspam_home,detectaspam,0,,0,0,"SSLError: HTTPSConnectionPool(host='detectaspam.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'detectaspam.com'. (_ssl.c:1011)"")))",https://detectaspam.com/
 numerospam_mobile_600,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/600,https://numerospam.es/moviles/es/600
 numerospam_mobile_601,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/601,https://numerospam.es/moviles/es/601
 numerospam_mobile_602,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/moviles/es/602,https://numerospam.es/moviles/es/602
@@ -172,10 +172,10 @@ numerospam_special_907,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for
 numerospam_special_908,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos-especiales/es/908,https://numerospam.es/prefijos-especiales/es/908
 numerospam_special_909,numerospam,0,,0,0,HTTPError: 525 Server Error: <none> for url: https://numerospam.es/prefijos-especiales/es/909,https://numerospam.es/prefijos-especiales/es/909
 slickly_es,slickly,0,,0,0,HTTPError: 403 Client Error: Forbidden for url: https://slick.ly/es,https://slick.ly/es
-cleverdialer_top_24h,cleverdialer,1,200,12,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
+cleverdialer_top_24h,cleverdialer,1,200,14,0,,https://www.cleverdialer.es/top-spammer-de-las-ultimas-24-horas
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
 datos_top,datostelefonicos,1,200,126,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 openspam_home,openspam,1,200,0,0,,https://openspam.es/
 spamcalls_es,spamcalls,1,200,52,0,,https://spamcalls.net/es/country-code/34
-telefonospam_latest,telefonospam,1,200,127,0,,https://www.telefonospam.com/ultimos
-tellows_stats,tellows,1,200,99,0,,https://www.tellows.es/stats
+telefonospam_latest,telefonospam,1,200,119,0,,https://www.telefonospam.com/ultimos
+tellows_stats,tellows,1,200,91,0,,https://www.tellows.es/stats
