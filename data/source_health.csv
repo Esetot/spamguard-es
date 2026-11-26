@@ -176,6 +176,6 @@ cleverdialer_top_24h,cleverdialer,1,200,9,0,,https://www.cleverdialer.es/top-spa
 datos_last,datostelefonicos,1,200,200,0,,https://datostelefonicos.com/ultimos-buscados/es?limit=200
 datos_top,datostelefonicos,1,200,126,0,,https://datostelefonicos.com/mas-buscados/es?limit=200
 openspam_home,openspam,1,200,2,0,,https://openspam.es/
-spamcalls_es,spamcalls,1,200,52,0,,https://spamcalls.net/es/country-code/34
-telefonospam_latest,telefonospam,1,200,117,0,,https://www.telefonospam.com/ultimos
-tellows_stats,tellows,1,200,113,0,,https://www.tellows.es/stats
+spamcalls_es,spamcalls,1,200,53,0,,https://spamcalls.net/es/country-code/34
+telefonospam_latest,telefonospam,1,200,125,0,,https://www.telefonospam.com/ultimos
+tellows_stats,tellows,1,200,91,0,,https://www.tellows.es/stats
